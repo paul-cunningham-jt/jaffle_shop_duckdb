@@ -1,0 +1,13 @@
+{
+    "python-envs.pythonProjects": [],
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "name": "DuckDB",
+            "accessMode": "Read Only",
+            "previewLimit": 50,
+            "driver": "DuckDB",
+            "databaseFilePath": "/Users/paul.cunningham@jobandtalent.com/git/dbt-code-assistant/jaffle_shop_duckdb/jaffle_shop.duckdb"
+        }
+    ]
+}
